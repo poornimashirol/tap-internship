@@ -1,3 +1,3 @@
-Learned about VCS \n
-Learned about DVCS \n
-Differnce Between VCS and DVCS \n
+1.Learned about **VCS**
+2.Learned about **DVCS** 
+3.Differnce Between **VCS** and **DVCS** 
